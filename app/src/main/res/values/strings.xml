@@ -4,6 +4,8 @@
     <string name="texto_pregunta"> La Peninsula De Yucatan Se Encuentra Al Norte De Mexico?</string>
     <string name="texto_boton_cierto"> Cierto </string>
     <string name="texto_boton_falso"> Falso </string>
+    <string name="texto_correcto"> correcto </string>
+    <string name="texto_incorrecto"> incorrecto!</string>
 </resources>
 
 
